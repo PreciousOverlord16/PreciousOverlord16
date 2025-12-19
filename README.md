@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+ I'm+Precious+Kamwendo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Precious+Kamwendo!;" />
 </h1>
 
 ## 💡 About Me
@@ -22,8 +22,6 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=PreciousOverlord16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="PreciousOverlord16's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PreciousOverlord16&theme=transparent&count_private=true&border_radius=10&locale=en" alt="PreciousOverlord16's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=PreciousOverlord16&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="PreciousOverlord16's Most Used Languages" />
 </div>
 
 <hr>
