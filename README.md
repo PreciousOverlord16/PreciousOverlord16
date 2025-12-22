@@ -25,3 +25,6 @@
 </div>
 
 <hr>
+<img src="https://raw.githubusercontent.com/PreciousOverlord16/PreciousOverlord16/output/snake.svg" alt="Snake animation" />
+
+###
