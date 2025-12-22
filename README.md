@@ -21,10 +21,7 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PreciousOverlord16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="PreciousOverlord16's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PreciousOverlord16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"alt="PreciousOverlord16's GitHub Stats" />
 </div>
 
 <hr>
-<img src="https://raw.githubusercontent.com/PreciousOverlord16/PreciousOverlord16/output/snake.svg" alt="Snake animation" />
-
-###
