@@ -18,6 +18,7 @@
 </p>
 <hr>
 
+## 👈 Head on over this section for more info
 <br>
 
 <div align=center>
