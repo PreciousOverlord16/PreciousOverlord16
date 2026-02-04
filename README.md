@@ -19,7 +19,6 @@
 <hr>
 
 ## 👈 Head on over this section for more info
-<br>
 <hr>
 
 
