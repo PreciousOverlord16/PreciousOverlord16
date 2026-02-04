@@ -20,11 +20,6 @@
 
 ## 👈 Head on over this section for more info
 <br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PreciousOverlord16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en"alt="PreciousOverlord16's GitHub Stats" />
-</div>
-
 <hr>
 
 
