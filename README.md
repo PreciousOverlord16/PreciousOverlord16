@@ -2,7 +2,7 @@
     👋 Hello, It's Precious here!
 </h3>
 
-## 💡 About Me
+## This is me 👇
 - 🔧 Persistent problem solver with deep expertise in PHP, SQL, Node.js, Flutter, and many more.
 - 🛠 Skilled at frontend-backend integration, modular dashboard design, and API-driven architectures.
 - 📊 Passionate about building dynamic dashboards with charts, filters, and responsive layouts.
@@ -10,7 +10,7 @@
 - 🧩 Known for methodical troubleshooting and designing future-proof, resilient solutions.
 <hr>
 
-## 🛠️ Languages and Tools
+## And this is what I do 👇
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cs,nodejs,dart,nextjs,dotnet,flutter,github" />
